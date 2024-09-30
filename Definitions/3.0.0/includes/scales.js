@@ -235,13 +235,13 @@ const TEXT_UNDERLINE_OFFSETS = [
 
 const BORDER_RADIUS_SCALE = [
   { name:'-none', value:'0px' },
-  { name:'-sm',   value:'0.125rem' },
-  { name:'',      value:'0.25rem' },
-  { name:'-md',   value:'0.375rem' },
-  { name:'-lg',   value:'0.5rem' },
-  { name:'-xl',   value:'0.75rem' },
-  { name:'-2xl',  value:'1rem' },
-  { name:'-3xl',  value:'1.5rem' },
+  { name: '-sm',   value: '0.125rem (2px)' },
+  { name: '',      value: '0.25rem (4px)' },
+  { name: '-md',   value: '0.375rem (6px)' },
+  { name: '-lg',   value: '0.5rem (8px)' },
+  { name: '-xl',   value: '0.75rem (12px)' },
+  { name: '-2xl',  value: '1rem (16px)' },
+  { name: '-3xl',  value: '1.5rem (24px)' }
   { name:'-full', value:'9999px' },
 ]
 

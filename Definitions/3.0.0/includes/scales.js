@@ -145,19 +145,19 @@ const COLUMN_COUNTS = [
 ]
 
 const COLUMN_WIDTHS = [
-  { name:'3xs',  value:'16rem' },
-  { name:'2xs',  value:'18rem' },
-  { name:'xs',   value:'20rem' },
-  { name:'sm',   value:'24rem' },
-  { name:'md',   value:'28rem' },
-  { name:'lg',   value:'32rem' },
-  { name:'xl',   value:'36rem' },
-  { name:'2xl',  value:'42rem' },
-  { name:'3xl',  value:'48rem' },
-  { name:'4xl',  value:'56rem' },
-  { name:'5xl',  value:'64rem' },
-  { name:'6xl',  value:'72rem' },
-  { name:'7xl',  value:'80rem' }
+  { name: '3xs',  value: '16rem (256px)' },
+{ name: '2xs',  value: '18rem (288px)' },
+{ name: 'xs',   value: '20rem (320px)' },
+{ name: 'sm',   value: '24rem (384px)' },
+{ name: 'md',   value: '28rem (448px)' },
+{ name: 'lg',   value: '32rem (512px)' },
+{ name: 'xl',   value: '36rem (576px)' },
+{ name: '2xl',  value: '42rem (672px)' },
+{ name: '3xl',  value: '48rem (768px)' },
+{ name: '4xl',  value: '56rem (896px)' },
+{ name: '5xl',  value: '64rem (1024px)' },
+{ name: '6xl',  value: '72rem (1152px)' },
+{ name: '7xl',  value: '80rem (1280px)' }
 ]
 
 const FONT_SIZES = [

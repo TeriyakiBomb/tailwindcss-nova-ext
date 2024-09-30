@@ -43,7 +43,7 @@ exports.twClasses = function twClasses(config) {
     {
       label:         'antialiased',
       detail:'         -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;',
-      documentation:'R ender text using grayscale antialiasing.'
+      documentation:'Render text using grayscale antialiasing.'
     },
     {
       label:'subpixel-antialiased',

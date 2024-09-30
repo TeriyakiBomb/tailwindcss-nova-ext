@@ -161,19 +161,19 @@ const COLUMN_WIDTHS = [
 ]
 
 const FONT_SIZES = [
-  { name:'xs',   size:'0.75rem',  lineHeight:'1rem' },
-  { name:'sm',   size:'0.875rem', lineHeight:'1.25rem' },
-  { name:'base', size:'1rem',     lineHeight:'1.5rem' },
-  { name:'lg',   size:'1.125rem', lineHeight:'1.75rem' },
-  { name:'xl',   size:'1.25rem',  lineHeight:'1.75rem' },
-  { name:'2xl',  size:'1.5rem',   lineHeight:'2rem' },
-  { name:'3xl',  size:'1.875rem', lineHeight:'2.25rem' },
-  { name:'4xl',  size:'2.25rem',  lineHeight:'2.5rem' },
-  { name:'5xl',  size:'3rem',     lineHeight:'1' },
-  { name:'6xl',  size:'3.75rem',  lineHeight:'1' },
-  { name:'7xl',  size:'4.5rem',   lineHeight:'1' },
-  { name:'8xl',  size:'6rem',     lineHeight:'1' },
-  { name:'9xl',  size:'8rem',     lineHeight:'1' }
+  { name: 'xs',   size: '0.75rem (12px)',   lineHeight: '1rem (16px)' },
+  { name: 'sm',   size: '0.875rem (14px)',  lineHeight: '1.25rem (20px)' },
+  { name: 'base', size: '1rem (16px)',      lineHeight: '1.5rem (24px)' },
+  { name: 'lg',   size: '1.125rem (18px)',  lineHeight: '1.75rem (28px)' },
+  { name: 'xl',   size: '1.25rem (20px)',   lineHeight: '1.75rem (28px)' },
+  { name: '2xl',  size: '1.5rem (24px)',    lineHeight: '2rem (32px)' },
+  { name: '3xl',  size: '1.875rem (30px)',  lineHeight: '2.25rem (36px)' },
+  { name: '4xl',  size: '2.25rem (36px)',   lineHeight: '2.5rem (40px)' },
+  { name: '5xl',  size: '3rem (48px)',      lineHeight: '1' },
+  { name: '6xl',  size: '3.75rem (60px)',   lineHeight: '1' },
+  { name: '7xl',  size: '4.5rem (72px)',    lineHeight: '1' },
+  { name: '8xl',  size: '6rem (96px)',      lineHeight: '1' },
+  { name: '9xl',  size: '8rem (128px)',     lineHeight: '1' }
 ]
 
 const FONT_WEIGHTS = [
